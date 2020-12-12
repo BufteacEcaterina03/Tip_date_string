@@ -3,4 +3,4 @@ a,b =s.split()
 if ( a.title()==a and b.title()==b) :
     print("Numele este scris corect")
 else :
-    print("Eroare")
+    print("Numele nu este scris corect ")
